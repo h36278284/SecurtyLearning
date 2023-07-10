@@ -29,11 +29,15 @@
 内外穿透:
   ngrok: https://ngrok.com/
 
-内存操作:
-  mimikatz: https://github.com/ParrotSec/mimikatz
+小工具
+  内存操作 mimikatz: https://github.com/ParrotSec/mimikatz
+  密码破解啥的 Miscellaneous: https://github.com/starnightcyber/Miscellaneous
 
-安全咨询:
+安全资讯:
   cisa: https://www.cisa.gov/news-events/cybersecurity-advisories?f%5B0%5D=advisory_type%3A94
+
+网络安全地图:
+  forti: https://threatmap.fortiguard.com/
 
 安全练习:
   XSS GYM: https://brutelogic.com.br/gym.php
