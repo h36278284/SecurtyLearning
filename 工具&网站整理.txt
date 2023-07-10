@@ -1,5 +1,5 @@
 提纲类：
-  攻击模式: ATT&CK
+  攻击模式 ATT&CK
   主机方法: 找到漏洞+反弹shell+提权
 
 信息收集:
@@ -9,17 +9,38 @@
 漏洞扫描:
   nuclei: https://github.com/projectdiscovery/nuclei
     脚本库: https://github.com/projectdiscovery/nuclei-templates/tree/master/vulnerabilities
+  xss漏洞扫描: DOM Invader
 
 漏洞利用:
   PayloadsAllTheThings: https://github.com/swisskyrepo/PayloadsAllTheThings
+  漏洞利用脚本数据库exploit-db: https://www.exploit-db.com/
 
 反弹shell:
   各种反弹shell指令: https://www.revshells.com/
 
 提权:
-  各种提权指令gtfobins: https://gtfobins.github.io/#+shell
-  linux提权linPEAS: https://github.com/carlospolop/PEASS-ng/tree/master/linPEAS
-  win提权winPEAS: https://github.com/carlospolop/PEASS-ng/tree/master/winPEAS
+  各种提权指令 gtfobins: https://gtfobins.github.io/#+shell
+  linux提权 linPEAS: https://github.com/carlospolop/PEASS-ng/tree/master/linPEAS
+  win提权 winPEAS: https://github.com/carlospolop/PEASS-ng/tree/master/winPEAS
+
+安全数据库:
+  SecLists: https://github.com/danielmiessler/SecLists
+
+内外穿透:
+  ngrok: https://ngrok.com/
+
+内存操作:
+  mimikatz: https://github.com/ParrotSec/mimikatz
+
+安全咨询:
+  cisa: https://www.cisa.gov/news-events/cybersecurity-advisories?f%5B0%5D=advisory_type%3A94
+
+安全练习:
+  XSS GYM: https://brutelogic.com.br/gym.php
+  KNOXSS: https://knoxss.me/
+  综合练习 hackthebox: https://www.hackthebox.com/
+  综合练习 tryhackme: tryhackme
+
 
 IDE:
   看各种东西: Visual Studio Code, Notepad++
