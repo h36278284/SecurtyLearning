@@ -1,19 +1,31 @@
 提纲类：
-  攻击模式:ATT&CK
+  攻击模式: ATT&CK
+  主机方法: 找到漏洞+反弹shell+提权
 
 信息收集:
-  网络扫描:nmap
-  抓包:
+  网络扫描: nmap
+  抓包: Burp Suite
 
 漏洞扫描:
-  nuclei
+  nuclei: https://github.com/projectdiscovery/nuclei
+    脚本库: https://github.com/projectdiscovery/nuclei-templates/tree/master/vulnerabilities
+
+漏洞利用:
+  PayloadsAllTheThings: https://github.com/swisskyrepo/PayloadsAllTheThings
+
+反弹shell:
+  各种反弹shell指令: https://www.revshells.com/
+
+提权:
+  各种提权指令gtfobins: https://gtfobins.github.io/#+shell
+  linux提权linPEAS: https://github.com/carlospolop/PEASS-ng/tree/master/linPEAS
+  win提权winPEAS: https://github.com/carlospolop/PEASS-ng/tree/master/winPEAS
 
 IDE:
   看各种东西: Visual Studio Code, Notepad++
   python: anaconda+jupyter notebook
   C++: Code:::Blocks
   Java: Eclipse
-  
 
 效率工具:
   插件整合: utools
