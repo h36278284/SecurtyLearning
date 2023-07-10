@@ -43,7 +43,7 @@
   XSS GYM: https://brutelogic.com.br/gym.php
   KNOXSS: https://knoxss.me/
   综合练习 hackthebox: https://www.hackthebox.com/
-  综合练习 tryhackme: tryhackme
+  综合练习 tryhackme: https://tryhackme.com/
 
 
 IDE:
