@@ -5,6 +5,7 @@
 信息收集:
   网络扫描: nmap
   抓包: Burp Suite
+  目录爆破：Gobuster
 
 漏洞扫描:
   nuclei: https://github.com/projectdiscovery/nuclei
