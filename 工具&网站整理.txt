@@ -39,6 +39,7 @@
 
 网络安全地图:
   forti: https://threatmap.fortiguard.com/
+  forfa: https://forfa.ch/en/
 
 安全练习:
   XSS GYM: https://brutelogic.com.br/gym.php
